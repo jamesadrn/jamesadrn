@@ -4,11 +4,12 @@
 🌱 Currently diving into **Machine Learning** and its applications.  
 💻 I also have experience in **Frontend Development** and **Software Engineering**.  
 🤝 Open to collaborate on exciting projects in ML, Web Development, or Software Engineering.  
+Currently Learning C++ and Java 
 
 ---
 
 ## 🌍 About Me
-- 🏠 From **Indonesia**  
+- 🏠 From **Jakarta, Indonesia**  
 - 🎬 Love watching movies in my free time  
 - 🏸 Badminton enthusiast  
 
