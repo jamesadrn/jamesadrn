@@ -23,7 +23,8 @@ This repository showcases my work across various data tools and domains:
 - **Power BI** — Sales & Customer Satisfaction Analysis (E-Commerce Case Study)  
 - **Tableau** — Airbnb Revenue & Pricing Dashboard  
 - **Excel** — Payroll Management Automation and Bike Sales Dashboard  
-- **SQL** — COVID-19 Data Exploration Project  
+- **SQL** — COVID-19 Data Exploration Project
+and others project.
 
 Each project reflects my journey in data analytics — from cleaning and exploring datasets to building interactive dashboards and deriving actionable insights.
 
