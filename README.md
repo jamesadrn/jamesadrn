@@ -1,49 +1,53 @@
-# Hi there 👋, I'm James!
+# Hi there, I'm James!
 
 🎓 I'm a Computer Science student at **Tarumanagara University (Indonesia)**  
-📊 Currently focusing on **Data Analysis** and how data-driven insights can help businesses make better decisions.  
-💻 My journey started from Machine Learning, and now I'm diving deeper into **data visualization, analytics, and business intelligence**.
+📊 Passionate about uncovering insights from data and using analytical thinking to solve real world problems.  
+💻 My journey started with **Machine Learning**, and now I’m expanding my skills across **Data Analytics** and **Data Science**.
 
 ---
 
 ## 🧠 What I Do
-- 📈 **Data Analysis & Visualization:** Turning raw data into insights using **Excel**, **Power BI**, and **Tableau**  
-- 🧮 **Data Exploration:** Writing SQL queries to explore and understand datasets  
-- 🤖 **Machine Learning (Basic):** Using Python for data analysis and simple predictive models  
-- 🧰 **Tools & Skills:** `Excel`, `Power BI`, `Tableau`, `SQL`, `Python (Pandas)`
+- 🔍 **Data Analysis & Visualization:** Transforming data into clear insights using **Excel**, **Power BI**, and **Tableau**  
+- 🧮 **Data Exploration & Querying:** Exploring structured and unstructured data using **SQL** and **Python (Pandas, NumPy)**  
+- 🤖 **Predictive Modeling (Basic):** Building simple models to discover patterns and support decision-making  
+- ⚙️ **Data Workflow & Cleaning:** Preparing, cleaning, and transforming datasets for analysis or modeling  
+- 🧰 **Tools & Skills:** `Python`, `Pandas`, `NumPy`, `SQL`, `Excel`, `Power BI`, `Tableau`
 
 ---
 
-## 📂 My Data Analytics Portfolio
+## 📂 My Data Projects
 
-You can explore my full collection of analytics projects here:  
-🔗 **[Portofolio Projects Repository](https://github.com/jamesadrn/Data-Analyst-Portofolio)**  
+Explore my collection of analytics and data science projects here:  
+🔗 **[Data Analyst](https://github.com/jamesadrn/Data-Analyst-Projects)**  
+🔗 **[Data Science](https://github.com/jamesadrn/Data-Science-Projects)**  
 
-This repository showcases my work across various data tools and domains:
-- **Power BI** — Sales & Customer Satisfaction Analysis (E-Commerce Case Study)  
-- **Tableau** — Airbnb Revenue & Pricing Dashboard  
-- **Excel** — Payroll Management Automation and Bike Sales Dashboard  
-- **SQL** — COVID-19 Data Exploration Project
-and others project.
-
-Each project reflects my journey in data analytics — from cleaning and exploring datasets to building interactive dashboards and deriving actionable insights.
+Each project represents a step in my journey — from understanding data and visualizing insights to experimenting with models and improving decision-making.
 
 ---
 
 ## 🎯 Current Focus
-I’m currently seeking an **internship opportunity as a Data Analyst**,  
-where I can apply my analytical skills, visualization experience, and problem-solving mindset  
-to help businesses make better, data-driven decisions.
+I’m currently seeking an **internship or entry-level opportunity** in the **Data field** whether as a **Data Analyst** or **Data Scientist**.  
+I aim to apply my technical and analytical skills to extract meaningful insights  
+and contribute to data-driven solutions that create real impact.
 
 ---
 
 ## 🌍 About Me
 - 🏙️ Based in **Jakarta, Indonesia**  
 - 💡 Passionate about **data, analytics, and continuous learning**  
-- 🚀 Currently exploring **Data Engineering fundamentals**
+- 🚀 Currently exploring **Data Engineering** and **Machine Learning fundamentals** to strengthen my end-to-end data understanding  
 
 ---
 
 📫 **Let’s Connect!**  
-I'm always open to collaboration, discussions, or learning together about data.  
-Feel free to explore my work and reach out anytime.
+I’m always open to collaboration, discussions, or learning together about data.  
+Feel free to explore my work and reach out anytime!
+
+---
+
+<!-- Optional: Add skill badges for visual appeal -->
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
