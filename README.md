@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm James Anderson, 20 years old, based in **Jakarta** 🏙️.  
+I'm James Anderson, 21 years old, based in **Jakarta** 🏙️.  
 I enjoy exploring data, finding insights, and building simple predictive solutions
 
 ## 🧠 What I Do
