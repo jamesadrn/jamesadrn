@@ -3,6 +3,8 @@
 I'm James Anderson, 21 years old, based in **Jakarta** 🏙️.  
 I enjoy exploring data, finding insights, and building simple predictive solutions
 
+🔗 **Portfolio:** [Data Analyst Projects](https://github.com/jamesadrn/Data-Analyst-Projects)
+
 ## 🧠 What I Do
 - 🔍 Data Analysis & Visualization: Excel, Power BI, Tableau
 - 🧮 Data Exploration & Querying: SQL, Python (Pandas, NumPy)
