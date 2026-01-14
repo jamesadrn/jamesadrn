@@ -1,9 +1,12 @@
-Hi, I'm James 👋
+> *"In God we trust. All others must bring data."* – W. Edwards Deming
 
-21 years old, based in Jakarta 🏙️.  
-Data enthusiast passionate about turning raw data into actionable insights and building dashboards, pipelines, and predictive models.
+---
 
-Projects Repo:
+# Hi 👋, I'm James Anderson
+I'm an **Informatics Engineering** student at **Tarumanagara University**.  
+I'm a data enthusiast passionate about turning raw data into actionable insights. I specialize in end-to-end analytics from data extraction to visualization.
+
+## Project Repositories:
 - [Data Analytics Projects](https://github.com/jamesadrn/Data-Analyst-Projects)
 - [Data Science Projects](https://github.com/jamesadrn/Data-Science-Projects)
 
@@ -13,42 +16,35 @@ Projects Repo:
 Here are a few highlights:
 
 - **Chocolate Sales Analysis**  
-  Built an ETL pipeline (PostgreSQL), dashboards (Power BI), and derived insights to improve sales performance by product and sales rep.  
+  Built ETL pipeline in PostgreSQL and Power BI dashboard analyzing sales across products, regions, and sales teams. Identified top product and revealed seasonal sales patterns with actionable optimization strategies.  
   [View Project](https://github.com/jamesadrn/Data-Analyst-Projects/tree/main/chocolate-sales-analysis)
 
 - **E-Commerce Customer Satisfaction Analysis**  
-  Diagnosed drivers of declining customer satisfaction and implemented a monitoring dashboard using Python & Power BI.  
+  Performed root cause analysis on customer satisfaction drivers using 100K+ orders for Brazilian e-commerce platform.  
   [View Project](https://github.com/jamesadrn/Data-Analyst-Projects/tree/main/ecommerce-customer-satisfaction)
 
 - **Credit Risk Analysis**  
-  Analyzed loan performance and credit risk, performed data transformations, and created an interactive Excel dashboard for decision support.  
+  Analyzed 1M+ loan records from Lending Club to identify default patterns across borrower profiles. Built interactive Excel dashboard with Power Query, featuring risk segmentation and 12-month default rate projection.  
   [View Project](https://github.com/jamesadrn/Data-Analyst-Projects/tree/main/credit-risk-analysis)
 
 ---
 
 ## Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="35"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="35"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/>
 </p>
 
 ---
 
 ## Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/jamesandrn" target="_blank">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=35" width="35" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jamesandrn@gmail.com">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=35" width="35" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/jamesadrn" target="_blank">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=35" width="35" alt="Instagram"/>
-  </a>
-</p>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jamesandrn)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jamesandrn@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jamesadrn)
