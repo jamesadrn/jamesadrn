@@ -1,17 +1,23 @@
-# Hi there 👋
+Hi, I'm James 👋
 
-I'm James Anderson, 21 years old, based in **Jakarta** 🏙️.  
-I enjoy exploring data, finding insights, and building simple predictive solutions
+21 years old, based in Jakarta 🏙️.  
+Interested in all things data - analysis, dashboards, pipelines, and simple predictive models.
 
-🔗 **Portfolio:** [Data Analyst Projects](https://github.com/jamesadrn/Data-Analyst-Projects)
+Projects:
+- [Data Analytics Projects](https://github.com/jamesadrn/Data-Analyst-Projects)
+- [Data Science Projects](https://github.com/jamesadrn/Data-Science-Projects)
 
-## 🧠 What I Do
-- 🔍 Data Analysis & Visualization: Excel, Power BI, Tableau
-- 🧮 Data Exploration & Querying: SQL, Python (Pandas, NumPy)
-- 🤖 Predictive Modeling (Basic): Simple models for pattern discovery
-- ⚙️ Data Workflow & Cleaning: Preparing, cleaning, and transforming datasets
-- 🧰 **Tools & Skills:** `Python`, `Pandas`, `NumPy`, `SQL`, `Excel`, `Power BI`, `Tableau`
+Tools:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="30"/>
+</p>
 
----
-
-📨 LinkedIn: [jamesandrn](https://www.linkedin.com/in/jamesandrn)
+LinkedIn:
+https://www.linkedin.com/in/jamesandrn
