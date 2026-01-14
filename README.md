@@ -3,16 +3,18 @@
 ---
 
 # Hi 👋, I'm James Anderson
+
 I'm an **Informatics Engineering** student at **Tarumanagara University**.  
 I'm a data enthusiast passionate about turning raw data into actionable insights. I specialize in end-to-end analytics from data extraction to visualization.
 
 ## Project Repositories:
-- [Data Analytics Projects](https://github.com/jamesadrn/Data-Analyst-Projects)
+- [Data Analytics Projects](https://github.com/jamesadrn/Data-Analytics-Projects)
 - [Data Science Projects](https://github.com/jamesadrn/Data-Science-Projects)
 
 ---
 
 ## Featured Projects
+
 Here are a few highlights:
 
 - **Chocolate Sales Analysis**  
@@ -27,9 +29,14 @@ Here are a few highlights:
   Analyzed 1M+ loan records from Lending Club to identify default patterns across borrower profiles. Built interactive Excel dashboard with Power Query, featuring risk segmentation and 12-month default rate projection.  
   [View Project](https://github.com/jamesadrn/Data-Analyst-Projects/tree/main/credit-risk-analysis)
 
+- **Performance Analysis on Data Analytics Course Campaign**  
+  End-to-end campaign analysis from raw data processing to interactive dashboard. Analyzed 2,244 ads with 10M+ impressions, achieving 658% ROAS with $10.79M margin on $1.93M spend.  
+  [View Project](https://github.com/jamesadrn/Data-Analyst-Projects/tree/main/performance-analysis-data-analytics-campaign) | [Live Dashboard](https://public.tableau.com/views/PerformanceAnalysisonDataAnalyticsCourseCampaign/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## Tools
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
