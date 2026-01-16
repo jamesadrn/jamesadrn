@@ -8,7 +8,7 @@ I'm an **Informatics Engineering** student at **Tarumanagara University**.
 I'm a data enthusiast passionate about turning raw data into actionable insights. I specialize in end-to-end analytics from data extraction to visualization.
 
 ## Project Repositories:
-- [Data Analytics Projects](https://github.com/jamesadrn/Data-Analytics-Projects)
+- [Data Analytics Projects](https://github.com/jamesadrn/Data-Analystics-Projects)
 - [Data Science Projects](https://github.com/jamesadrn/Data-Science-Projects)
 
 ---
@@ -19,19 +19,19 @@ Here are a few highlights:
 
 - **Chocolate Sales Analysis**  
   Built ETL pipeline in PostgreSQL and Power BI dashboard analyzing sales across products, regions, and sales teams. Identified top product and revealed seasonal sales patterns with actionable optimization strategies.  
-  [View Project](https://github.com/jamesadrn/Data-Analyst-Projects/tree/main/chocolate-sales-analysis)
+  [View Project](https://github.com/jamesadrn/Data-Analystics-Projects/tree/main/chocolate-sales-analysis)
 
 - **E-Commerce Customer Satisfaction Analysis**  
   Performed root cause analysis on customer satisfaction drivers using 100K+ orders for Brazilian e-commerce platform.  
-  [View Project](https://github.com/jamesadrn/Data-Analyst-Projects/tree/main/ecommerce-customer-satisfaction)
+  [View Project](https://github.com/jamesadrn/Data-Analystics-Projects/tree/main/ecommerce-customer-satisfaction)
 
 - **Credit Risk Analysis**  
   Analyzed 1M+ loan records from Lending Club to identify default patterns across borrower profiles. Built interactive Excel dashboard with Power Query, featuring risk segmentation and 12-month default rate projection.  
-  [View Project](https://github.com/jamesadrn/Data-Analyst-Projects/tree/main/credit-risk-analysis)
+  [View Project](https://github.com/jamesadrn/Data-Analystics-Projects/tree/main/credit-risk-analysis)
 
 - **Performance Analysis on Data Analytics Course Campaign**  
   End-to-end campaign analysis from raw data processing to interactive dashboard. Analyzed 2,244 ads with 10M+ impressions, achieving 658% ROAS with $10.79M margin on $1.93M spend.  
-  [View Project](https://github.com/jamesadrn/Data-Analyst-Projects/tree/main/performance-analysis-data-analytics-campaign) | [Live Dashboard](https://public.tableau.com/views/PerformanceAnalysisonDataAnalyticsCourseCampaign/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  [View Project](https://github.com/jamesadrn/Data-Analystics-Projects/tree/main/campaign-performance-analysis) | [Live Dashboard](https://public.tableau.com/views/PerformanceAnalysisonDataAnalyticsCourseCampaign/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
