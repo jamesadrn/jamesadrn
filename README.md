@@ -15,7 +15,7 @@ I'm a data enthusiast passionate about turning raw data into actionable insights
 
 ## Featured Projects
 
-Here are a few highlights:
+Here are a few projects im proud of:
 
 - **Chocolate Sales Analysis**  
   Built ETL pipeline in PostgreSQL and Power BI dashboard analyzing sales across products, regions, and sales teams. Identified top product and revealed seasonal sales patterns with actionable optimization strategies.  
