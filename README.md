@@ -22,15 +22,15 @@ Here are a few projects im proud of:
   [View Project](https://github.com/jamesadrn/Data-Analystics-Projects/tree/main/chocolate-sales-analysis)
 
 - **E-Commerce Customer Satisfaction Analysis**  
-  Performed root cause analysis on customer satisfaction drivers using 100K+ orders for Brazilian e-commerce platform.  
+  Performed root cause analysis on customer satisfaction drivers using 100K+ orders for Brazilian e-commerce platform. Processed and analyzed data using Python (Pandas, NumPy) with interactive  Power BI dashboards.  
   [View Project](https://github.com/jamesadrn/Data-Analystics-Projects/tree/main/ecommerce-customer-satisfaction)
 
 - **Credit Risk Analysis**  
-  Analyzed 1M+ loan records from Lending Club to identify default patterns across borrower profiles. Built interactive Excel dashboard with Power Query, featuring risk segmentation and 12-month default rate projection.  
+  Analyzed 1M+ loan records from Lending Club to identify default patterns across borrower profiles. Built end-to-end solution in Excel using Power Query for ETL and created interactive dashboard featuring risk segmentation and 12-month default rate projection.  
   [View Project](https://github.com/jamesadrn/Data-Analystics-Projects/tree/main/credit-risk-analysis)
 
 - **Performance Analysis on Data Analytics Course Campaign**  
-  End-to-end campaign analysis from raw data processing to interactive dashboard. Analyzed 2,244 ads with 10M+ impressions, achieving 658% ROAS with $10.79M margin on $1.93M spend.  
+  End-to-end campaign analysis from raw data processing in Excel to interactive Tableau dashboard. Analyzed 2,244 ads with 10M+ impressions, achieving 658% ROAS with $10.79M margin on $1.93M spend.  
   [View Project](https://github.com/jamesadrn/Data-Analystics-Projects/tree/main/campaign-performance-analysis) | [Live Dashboard](https://public.tableau.com/views/PerformanceAnalysisonDataAnalyticsCourseCampaign/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
