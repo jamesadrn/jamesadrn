@@ -2,9 +2,8 @@
 
 ---
 
-# Hi 👋, I'm James Anderson
+# Hi 👋, I'm James 
 
-I'm an **Informatics Engineering** student at **Tarumanagara University**.  
 I'm a data enthusiast passionate about turning raw data into actionable insights. I specialize in end-to-end analytics from data extraction to visualization.
 
 ## Project Repositories:
